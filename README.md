@@ -45,14 +45,6 @@ rc-code-jp@github:~$ █
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" alt="divider" />
 
-## 🏆 TROPHY ROOM
-
-<img src="https://github-profile-trophy.vercel.app/?username=rc-code-jp&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" alt="divider" />
-
 ## 🌌 CONTRIBUTION GALAXY — 3D
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
@@ -63,8 +55,12 @@ rc-code-jp@github:~$ █
 
 ## 📊 BATTLE STATS
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rc-code-jp&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0d1117" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-code-jp&layout=compact&count_private=true&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rc-code-jp&theme=radical" width="80%" alt="Profile Details" />
+
+<br><br>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rc-code-jp&theme=radical" alt="GitHub Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rc-code-jp&theme=radical" alt="Top Langs" />
 
 <br><br>
 
@@ -81,17 +77,17 @@ rc-code-jp@github:~$ █
 ## 🚀 FEATURED QUESTS
 
 <a href="https://github.com/rc-code-jp/ts-onion-architecture">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rc-code-jp&repo=ts-onion-architecture&theme=radical&hide_border=true&bg_color=0d1117" alt="ts-onion-architecture" />
+  <img src="https://socialify.git.ci/rc-code-jp/ts-onion-architecture/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="49%" alt="ts-onion-architecture" />
 </a>
 <a href="https://github.com/rc-code-jp/pocogit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rc-code-jp&repo=pocogit&theme=radical&hide_border=true&bg_color=0d1117" alt="pocogit" />
+  <img src="https://socialify.git.ci/rc-code-jp/pocogit/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="49%" alt="pocogit" />
 </a>
 
 <a href="https://github.com/rc-code-jp/pocoshelf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rc-code-jp&repo=pocoshelf&theme=radical&hide_border=true&bg_color=0d1117" alt="pocoshelf" />
+  <img src="https://socialify.git.ci/rc-code-jp/pocoshelf/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="49%" alt="pocoshelf" />
 </a>
 <a href="https://github.com/rc-code-jp/nextjs-kanban">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rc-code-jp&repo=nextjs-kanban&theme=radical&hide_border=true&bg_color=0d1117" alt="nextjs-kanban" />
+  <img src="https://socialify.git.ci/rc-code-jp/nextjs-kanban/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="49%" alt="nextjs-kanban" />
 </a>
 
 <br>
