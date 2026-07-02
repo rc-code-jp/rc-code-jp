@@ -74,26 +74,6 @@ rc-code-jp@github:~$ █
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" alt="divider" />
 
-## 🚀 FEATURED QUESTS
-
-<a href="https://github.com/rc-code-jp/ts-onion-architecture">
-  <img src="https://socialify.git.ci/rc-code-jp/ts-onion-architecture/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="49%" alt="ts-onion-architecture" />
-</a>
-<a href="https://github.com/rc-code-jp/pocogit">
-  <img src="https://socialify.git.ci/rc-code-jp/pocogit/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="49%" alt="pocogit" />
-</a>
-
-<a href="https://github.com/rc-code-jp/pocoshelf">
-  <img src="https://socialify.git.ci/rc-code-jp/pocoshelf/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="49%" alt="pocoshelf" />
-</a>
-<a href="https://github.com/rc-code-jp/nextjs-kanban">
-  <img src="https://socialify.git.ci/rc-code-jp/nextjs-kanban/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="49%" alt="nextjs-kanban" />
-</a>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" alt="divider" />
-
 ## 🐍 THE SNAKE NEVER SLEEPS
 
 <picture>
